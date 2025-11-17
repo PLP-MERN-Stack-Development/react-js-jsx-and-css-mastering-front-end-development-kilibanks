@@ -12,11 +12,11 @@ Build a responsive React application using JSX and Tailwind CSS that demonstrate
 - Configure basic routing using React Router
 
 ### Task 2: Component Architecture
-- Create reusable UI components:
+- component for site navigation
+  - `Footer` coCreate reusable UI components:
   - `Button` component with different variants (primary, secondary, danger)
   - `Card` component for displaying content in a boxed layout
-  - `Navbar` component for site navigation
-  - `Footer` component with links and copyright information
+  - `Navbar` mponent with links and copyright information
 - Implement a layout component that includes the Navbar and Footer
 - Use props to make components customizable and reusable
 
